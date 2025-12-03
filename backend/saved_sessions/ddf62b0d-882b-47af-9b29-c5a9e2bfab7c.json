@@ -1,0 +1,64 @@
+{
+  "session_id": "ddf62b0d-882b-47af-9b29-c5a9e2bfab7c",
+  "shopping_cart": {
+    "items": [
+      {
+        "item": "wheat",
+        "quantity": 1,
+        "price": 40,
+        "category": "grains",
+        "total": 40
+      },
+      {
+        "item": "rice",
+        "quantity": 1,
+        "price": 80,
+        "category": "grains",
+        "total": 80
+      }
+    ],
+    "subtotal": 120,
+    "total_items": 2,
+    "created_at": "2025-12-04T03:15:46.765814",
+    "last_updated": "2025-12-04T03:15:58.343199"
+  },
+  "chat_history": [
+    {
+      "role": "user",
+      "message": "add 1 kg of wheat to my cart",
+      "timestamp": "2025-12-04T03:15:52.403910"
+    },
+    {
+      "role": "assistant",
+      "message": "Added 1kg of wheat to your shopping cart.\n\nOkay, I have added another 1 kg of wheat to your cart.",
+      "timestamp": "2025-12-04T03:15:53.265124"
+    },
+    {
+      "role": "user",
+      "message": "add 1 kg of rice to my cart",
+      "timestamp": "2025-12-04T03:15:58.343076"
+    },
+    {
+      "role": "assistant",
+      "message": "Added 1kg of rice to your shopping cart.\n\nAdded 1kg of rice to your shopping cart.",
+      "timestamp": "2025-12-04T03:15:59.220696"
+    }
+  ],
+  "user_context": {
+    "name": "",
+    "last_order_items": [
+      {
+        "item": "wheat",
+        "quantity": 1,
+        "timestamp": "2025-12-04T03:15:52.404015"
+      },
+      {
+        "item": "rice",
+        "quantity": 1,
+        "timestamp": "2025-12-04T03:15:58.343212"
+      }
+    ],
+    "preferences": {}
+  },
+  "saved_at": "2025-12-04T03:15:59.220763"
+}

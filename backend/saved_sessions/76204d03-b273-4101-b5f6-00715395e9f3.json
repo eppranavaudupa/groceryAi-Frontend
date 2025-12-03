@@ -1,0 +1,169 @@
+{
+  "session_id": "76204d03-b273-4101-b5f6-00715395e9f3",
+  "shopping_cart": {
+    "items": [],
+    "subtotal": 0,
+    "total_items": 0,
+    "created_at": "2025-12-04T02:46:02.025894",
+    "last_updated": "2025-12-04T03:14:47.509635"
+  },
+  "chat_history": [
+    {
+      "role": "user",
+      "message": "Apple to my card",
+      "timestamp": "2025-12-04T02:50:51.543684"
+    },
+    {
+      "role": "assistant",
+      "message": "Okay, adding apple to your cart.",
+      "timestamp": "2025-12-04T02:50:53.161474"
+    },
+    {
+      "role": "user",
+      "message": "what are items are there in my card",
+      "timestamp": "2025-12-04T02:51:06.168695"
+    },
+    {
+      "role": "assistant",
+      "message": "Your cart is empty.",
+      "timestamp": "2025-12-04T02:51:07.050830"
+    },
+    {
+      "role": "user",
+      "message": "banana profile part",
+      "timestamp": "2025-12-04T02:56:38.357667"
+    },
+    {
+      "role": "assistant",
+      "message": "Sorry, I don't understand. Can you please clarify?",
+      "timestamp": "2025-12-04T02:56:39.795541"
+    },
+    {
+      "role": "user",
+      "message": "add 1kg of Apple to my cart",
+      "timestamp": "2025-12-04T02:56:47.656682"
+    },
+    {
+      "role": "assistant",
+      "message": "\u2705 Added 1kg of apple to your shopping cart.\n\nOkay, I've added another 1kg of apple to your cart.",
+      "timestamp": "2025-12-04T02:56:48.515720"
+    },
+    {
+      "role": "user",
+      "message": "add 1 kg of Banana to my cart",
+      "timestamp": "2025-12-04T02:56:55.289961"
+    },
+    {
+      "role": "assistant",
+      "message": "\u2705 Added 1kg of banana to your shopping cart.\n\n\u2705 Added 1kg of banana to your shopping cart.",
+      "timestamp": "2025-12-04T02:56:56.047496"
+    },
+    {
+      "role": "user",
+      "message": "director",
+      "timestamp": "2025-12-04T02:57:24.662509"
+    },
+    {
+      "role": "assistant",
+      "message": "I am sorry, I can't help with that request. Is there anything else I can help you with?",
+      "timestamp": "2025-12-04T02:57:25.658306"
+    },
+    {
+      "role": "user",
+      "message": "what are there in my cart",
+      "timestamp": "2025-12-04T02:57:39.888775"
+    },
+    {
+      "role": "assistant",
+      "message": "Here are the items in your cart: - 1kg apple \u2014 \u20b980 \u00d7 1 = \u20b980 - 1kg banana \u2014 \u20b940 \u00d7 1 = \u20b940 Subtotal: \u20b9120",
+      "timestamp": "2025-12-04T02:57:39.888862"
+    },
+    {
+      "role": "user",
+      "message": "pomegranate to my card",
+      "timestamp": "2025-12-04T03:02:49.513514"
+    },
+    {
+      "role": "assistant",
+      "message": "Okay, I will add 1kg pomegranate to your cart.",
+      "timestamp": "2025-12-04T03:02:50.867997"
+    },
+    {
+      "role": "user",
+      "message": "what are the items are there in my card",
+      "timestamp": "2025-12-04T03:03:03.602049"
+    },
+    {
+      "role": "assistant",
+      "message": "Here are the items in your cart: - 1kg apple \u2014 \u20b980 - 1kg banana \u2014 \u20b940 Subtotal: \u20b9120",
+      "timestamp": "2025-12-04T03:03:04.702375"
+    },
+    {
+      "role": "user",
+      "message": "oh my God",
+      "timestamp": "2025-12-04T03:03:54.554116"
+    },
+    {
+      "role": "assistant",
+      "message": "Okay.",
+      "timestamp": "2025-12-04T03:03:55.558997"
+    },
+    {
+      "role": "user",
+      "message": "add 1 kg of wheat to my cart",
+      "timestamp": "2025-12-04T03:04:05.701212"
+    },
+    {
+      "role": "assistant",
+      "message": "\u2705 Added 1kg of wheat to your shopping cart.\n\nOkay, I've added 1kg of wheat to your cart.",
+      "timestamp": "2025-12-04T03:04:06.542406"
+    },
+    {
+      "role": "user",
+      "message": "Teri Aankhon to my card",
+      "timestamp": "2025-12-04T03:07:35.823999"
+    },
+    {
+      "role": "assistant",
+      "message": "I am sorry, I don't understand \"Teri Aankhon\". Can you please clarify?",
+      "timestamp": "2025-12-04T03:07:37.131974"
+    },
+    {
+      "role": "user",
+      "message": "add 1 kg of pineapple to my cart",
+      "timestamp": "2025-12-04T03:07:46.985922"
+    },
+    {
+      "role": "assistant",
+      "message": "Added 1kg of pineapple to your shopping cart.\n\n\u2705 Added 1kg of pineapple to your shopping cart.",
+      "timestamp": "2025-12-04T03:07:47.795985"
+    }
+  ],
+  "user_context": {
+    "name": "",
+    "last_order_items": [
+      {
+        "item": "apple",
+        "quantity": 1,
+        "timestamp": "2025-12-04T02:56:47.656780"
+      },
+      {
+        "item": "banana",
+        "quantity": 1,
+        "timestamp": "2025-12-04T02:56:55.290052"
+      },
+      {
+        "item": "wheat",
+        "quantity": 1,
+        "timestamp": "2025-12-04T03:04:05.701292"
+      },
+      {
+        "item": "pineapple",
+        "quantity": 1,
+        "timestamp": "2025-12-04T03:07:46.985989"
+      }
+    ],
+    "preferences": {}
+  },
+  "saved_at": "2025-12-04T03:14:47.509676"
+}

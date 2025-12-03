@@ -1,0 +1,47 @@
+{
+  "fruits": {
+    "apple": 80,
+    "banana": 40,
+    "orange": 60,
+    "mango": 120,
+    "grapes": 100,
+    "watermelon": 50,
+    "pineapple": 70,
+    "strawberry": 200,
+    "pomegranate": 150,
+    "kiwi": 90
+  },
+  "vegetables": {
+    "potato": 30,
+    "tomato": 40,
+    "onion": 25,
+    "carrot": 35,
+    "cabbage": 20,
+    "spinach": 25,
+    "broccoli": 80,
+    "cauliflower": 60,
+    "capsicum": 70,
+    "cucumber": 20
+  },
+  "dairy": {
+    "milk": 60,
+    "cheese": 300,
+    "butter": 100,
+    "yogurt": 50,
+    "eggs": 80
+  },
+  "grains": {
+    "rice": 80,
+    "wheat": 40,
+    "oats": 120,
+    "pasta": 60,
+    "bread": 40
+  },
+  "other": {
+    "sugar": 45,
+    "salt": 20,
+    "oil": 180,
+    "coffee": 300,
+    "tea": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "session_id": "354400cc-1e79-49c7-a318-f720c9cb521e",
+  "shopping_cart": {
+    "items": [],
+    "subtotal": 0,
+    "total_items": 0,
+    "created_at": "2025-12-04T03:14:51.273379",
+    "last_updated": "2025-12-04T03:15:42.269816"
+  },
+  "chat_history": [
+    {
+      "role": "user",
+      "message": "Baroda to my card",
+      "timestamp": "2025-12-04T03:14:56.872418"
+    },
+    {
+      "role": "assistant",
+      "message": "Sorry, I don't understand. Can you please clarify?",
+      "timestamp": "2025-12-04T03:14:58.391418"
+    },
+    {
+      "role": "user",
+      "message": "add 1 kg of Banana to my cart",
+      "timestamp": "2025-12-04T03:15:05.400619"
+    },
+    {
+      "role": "assistant",
+      "message": "Added 1kg of banana to your shopping cart.\n\nBanana already in cart. Do you want to add more?",
+      "timestamp": "2025-12-04T03:15:06.222609"
+    },
+    {
+      "role": "user",
+      "message": "add 1 kg of mango to my cart",
+      "timestamp": "2025-12-04T03:15:17.644250"
+    },
+    {
+      "role": "assistant",
+      "message": "Added 1kg of mango to your shopping cart.\n\nMango already in cart. Do you want to add more?",
+      "timestamp": "2025-12-04T03:15:18.564126"
+    },
+    {
+      "role": "user",
+      "message": "add 1 kg of pineapple to my cart",
+      "timestamp": "2025-12-04T03:15:25.674126"
+    },
+    {
+      "role": "assistant",
+      "message": "Added 1kg of pineapple to your shopping cart.\n\nPineapple already in cart. Do you want to add more?",
+      "timestamp": "2025-12-04T03:15:26.556770"
+    }
+  ],
+  "user_context": {
+    "name": "",
+    "last_order_items": [
+      {
+        "item": "banana",
+        "quantity": 1,
+        "timestamp": "2025-12-04T03:15:05.400737"
+      },
+      {
+        "item": "mango",
+        "quantity": 1,
+        "timestamp": "2025-12-04T03:15:17.644352"
+      },
+      {
+        "item": "pineapple",
+        "quantity": 1,
+        "timestamp": "2025-12-04T03:15:25.674215"
+      }
+    ],
+    "preferences": {}
+  },
+  "saved_at": "2025-12-04T03:15:42.269853"
+}
